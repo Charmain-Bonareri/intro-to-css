@@ -1,0 +1,22 @@
+body {
+    background-color: powderblue;
+}
+h1 {
+    color: darkcyan;
+}
+p {
+    color: yellow;
+}
+.intro{
+font-style: italic;
+}
+
+.author {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p.author{
+    font-size: small;font-style: normal; color: blue;
+}
+p.trial{
+    font-size: ;
+}
